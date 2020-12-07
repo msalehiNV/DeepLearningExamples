@@ -24,14 +24,14 @@ Describe the models (framework, inputs, outputs), ideally include the model conf
 A clear and concise description of what you expected to happen.
 
 **Priority Level**
-Provide a priority score for this issue, based on the system below:
+Provide a priority level for this issue, based on the ranking system below:
 P0 - Blocker
 P1 - Critical 
 P2 - Should have
 P3 - Nice to have
 
 **Target timeline**
-Specify the target timeline for availability of the new feature (Q4 2020, Q1 2021, Q2 2021, etc).
+Specify the target timeline based on Triton release schedule (e.g. should be implemented in Triton 21.02, 21.03, etc).
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.

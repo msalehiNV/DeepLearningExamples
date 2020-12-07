@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Suggest a new feature
-title: "[Model/Framework or something else] Feature requested"
+title: "[Priority Level] - Insert_Title"
 labels: enhancement
 assignees: ''
 
@@ -24,7 +24,7 @@ P2 - Should-have
 P3 - Nice-to-have
 
 **Target timeline**
-Specify the target timeline for a resolution (Q4 2020, Q1 2021, Q2 2021, etc).
+Specify the target timeline based on Triton release schedule (e.g. should be implemented in Triton 21.02, 21.03, etc).
 
 **Additional context**
 Add any other context or screenshots about the feature request here.

@@ -1,17 +1,11 @@
 ---
 name: Feature Request
-about: Suggest a new feature in Triton
+about: Suggest a new feature
 title: "[Model/Framework or something else] Feature requested"
 labels: enhancement
 assignees: ''
 
 ---
-
-*Examples:* 
-* *GNMT/PyTorch* 
-* *AMP* 
-* *Tensorflow 2.0*
-* *Jupyter notebooks*
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]

@@ -1,38 +1,37 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report a bug
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
+**Description**
 A clear and concise description of what the bug is.
 
+**Triton Information**
+What version of Triton are you using?
+
+Are you using the Triton container or did you build it yourself?
+
 **To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Steps to reproduce the behavior.
+
+Describe the models (framework, inputs, outputs), ideally include the model configuration file (if using an ensemble include the model configuration file for that as well).
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
+**Priority Level**
+Provide a priority score for this issue, based on the system below:
+P0 - Blocker
+P1 - Critical 
+P2 - Should have
+P3 - Nice to have
+
+**Target timeline**
+Specify the target timeline for availability of the new feature (Q4 2020, Q1 2021, Q2 2021, etc).
+
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.

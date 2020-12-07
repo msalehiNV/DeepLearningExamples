@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Report a bug
-title: ''
+title: "[Priority Level] - Insert_Title"
 labels: bug
 assignees: ''
 

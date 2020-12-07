@@ -20,11 +20,11 @@ A clear and concise description of any alternative solutions or features you've 
 Provide a priority score for this issue, based on the system below:
 P0 - Blocker
 P1 - Critical 
-P2 - Should have
-P3 - Nice to have
+P2 - Should-have
+P3 - Nice-to-have
 
 **Target timeline**
-Specify the target timeline for availability of the new feature (Q4 2020, Q1 2021, Q2 2021, etc).
+Specify the target timeline for a resolution (Q4 2020, Q1 2021, Q2 2021, etc).
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
